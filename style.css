@@ -107,8 +107,9 @@ div{
 
     div{
         display: flex;
-        justify-content: ;
+        background-color: azure;
+        height: 300px;
         width: 200px;
-        flex-flow: column;
+        flex-flow: column wrap;
     }
 }
