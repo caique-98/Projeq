@@ -88,12 +88,6 @@ div{
     }
 }
 
-@media screen and (min-width:1200px) {
-    section{
-        height: 30vh;
-        width: 50vw;
-    }
-}
 
 @media screen and (min-width:1200px) {
 
@@ -103,6 +97,8 @@ div{
     
     section{
         padding-bottom: 520px;
+        height: 30vh;
+        width: 50%;
     }
 
     div#one{
@@ -114,7 +110,7 @@ div{
         padding: 20px;
         margin-top: 20px;
         height: 20%;
-        
+        text-align: justify;
         
     }
 
@@ -127,7 +123,7 @@ div{
         margin-top: 20px;
         margin-right: 20px;
         height: 20%;
-        
+        text-align: justify;
     }
 
     h4{
